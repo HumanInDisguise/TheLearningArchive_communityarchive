@@ -12,27 +12,32 @@ This community-driven archive is a repository for gathering and creating learnin
 The future of open-source free education is here for the world. And it's time we work together to create the best source of educational learning possible.
 
 
+RELEASED:
+
+IN PROGRESS:
+
+Game Development,
+Game Art,
+Film,
+
+BACKLOG:
+
+Blender,
+Maya,
+Unreal Engine,
+Unity Engine,
+Substance Painter,
+Zbrush,
+Houdini,
+DaVinci,
+
+##
 > **Note**:
 >
 > Current Version: 0.1 (30/09/2023)
 > 
 > Development Status: IN PROGRESS
->
-> Primary Learning Paths:
-> - Game Development
-> - Game Art
-> - Film
->
-> Secondary Learning-Paths
-> - Blender
-> - Maya
-> - Unreal Engine
-> - Unity Engine
-> - Substance Painter
-> - Zbrush
-> - Houdini
-> - DaVinci
-
+##
 
 ## Table of Contents
 
