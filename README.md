@@ -18,7 +18,7 @@ IN PROGRESS:
 
 Game Development,
 Game Art,
-Film,
+Film
 
 BACKLOG:
 
@@ -29,7 +29,7 @@ Unity Engine,
 Substance Painter,
 Zbrush,
 Houdini,
-DaVinci,
+DaVinci
 
 ##
 > **Note**:
@@ -41,15 +41,14 @@ DaVinci,
 
 ## Table of Contents
 
-  1. [Types](#types)
-  1. [References](#references)
+  1. [Introduction](#introduction)
+  1. [Getting Started](#getting-started)
   1. [Objects](#objects)
   1. [Arrays](#arrays)
   1. [Destructuring](#destructuring)
   1. [Strings](#strings)
 
 
-One Paragraph of project description goes here
 
 ## Getting Started
 
@@ -60,7 +59,10 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 ```
-Give examples
+A general understanding of video games
+A general understanding of mechanics
+A general understanding of film
+A general understanding of art
 ```
 
 ### Installing
