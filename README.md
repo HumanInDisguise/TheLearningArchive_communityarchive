@@ -9,12 +9,14 @@ Welcome to TheLearningArchives GitHub page.
 
 This community-driven archive is a repository for gathering and creating learning materials through support and sources cited by the community. The purpose of this repo is to collect, curate, and collate all the publicly available material into TheLearningArchives learning paths to provide a free platform for student learning. 
 
-The future of open-source free education is here for the world. And its time we work together to create the best source of educational learning possible.
+The future of open-source free education is here for the world. And it's time we work together to create the best source of educational learning possible.
 
 
-
-
-> **Note**: this guide assumes you are familiar with navigating the internet and web pages.
+> **Note**:
+>
+> Current Version 0.1 (30/09/2023)
+> 
+> Development Status
 
 
 ## Table of Contents
