@@ -125,12 +125,32 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ### Content
 
-A step by step guide of pages dedicated to learning each category
+A step-by-step guide of pages dedicated to learning each category.
 
 #### Game Development
 
+[Subject to changes]
 
-1. [Intro To Game Dev](www.introtogamedev.com)
+Fundamentals
+1. Intro To Game Development
+2. Intro To Game Engines
+3. Intro To Game Art
+4. Intro To Resource Management
+5. Intro To Software Engineering
+6. Intro To Game Design
+7. Intro To Game Mathematics
+8. Intro To Physics
+9. Intro To Audio
+10. Intro To UI/UX
+11. Intro To Business Management
+
+Game Engines
+
+Game Design
+1.  Intro To Game Design
+2.  Game Design Principles
+3.  Game Design Processes
+4.  
 
 
 
