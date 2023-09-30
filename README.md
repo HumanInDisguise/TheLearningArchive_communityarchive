@@ -131,7 +131,7 @@ A step-by-step guide of pages dedicated to learning each category.
 
 [Subject to changes]
 
-Fundamentals
+Game Development Fundamentals
 1. Intro To Game Development
 2. Intro To Game Engines
 3. Intro To Game Art
@@ -144,13 +144,42 @@ Fundamentals
 10. Intro To UI/UX
 11. Intro To Business Management
 
+Game Mathematics
+1. Intro To Game Mathematics
 Game Engines
+1. Intro To Game Engines
+Game Physics
+1. Intro To Game Physics
+Game Mechanics
+Game Programming
+Game World
+Narrative
+Game Graphics
+Game Audio
+UX & UI
+Game Management
+
+Game Projects
+1. Role-Playing
+2. Strategy
+3. Action
+4. First-Person
+5. Platform
+6. Adventure
+
 
 Game Design
 1.  Intro To Game Design
-2.  Game Design Principles
-3.  Game Design Processes
-4.  
+2.  Game Design History
+3.  Game Design Theory
+4.  Game Design Mechanics
+5.  Game Balance
+6.  
 
+p
+#### Game Art
+
+
+#### Film
 
 
