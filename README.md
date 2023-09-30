@@ -1,4 +1,4 @@
-# TheLearningArchives - Community-archive Learning
+# TheLearningArchives - Community-Archive Learning
 
 https://www.thefreedomaccord.com/
 
@@ -14,9 +14,24 @@ The future of open-source free education is here for the world. And it's time we
 
 > **Note**:
 >
-> Current Version 0.1 (30/09/2023)
+> Current Version: 0.1 (30/09/2023)
 > 
-> Development Status
+> Development Status: IN PROGRESS
+>
+> Primary Learning Paths:
+> - Game Development
+> - Game Art
+> - Film
+>
+> Secondary Learning-Paths
+> - Blender
+> - Maya
+> - Unreal Engine
+> - Unity Engine
+> - Substance Painter
+> - Zbrush
+> - Houdini
+> - DaVinci
 
 
 ## Table of Contents
