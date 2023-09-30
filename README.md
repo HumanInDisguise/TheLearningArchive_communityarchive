@@ -43,17 +43,16 @@ DaVinci
 
   1. [Introduction](#introduction)
   1. [Getting Started](#getting-started)
-  1. [Objects](#objects)
-  1. [Arrays](#arrays)
-  1. [Destructuring](#destructuring)
-  1. [Strings](#strings)
-
+  1. [Prerequisites](#prerequisites)
+  1. [Deployment](#deployment)
+  1. [Contributing](#contributing)
+  1. [Content](#content)
 
 
 ## Getting Started
 
-- Select a Learning Path OR find a specific page
-- Aa
+- Select a Learning Path from the Table of Contents Content OR find a specific page
+- 
 
 ### Prerequisites
 
@@ -66,23 +65,7 @@ A general understanding of film
 A general understanding of art
 ```
 
-### Content
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
@@ -140,4 +123,20 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * Please reach out if you have any questions or feedback!
 
+### Content
 
+A step by step series of examples that tell you how to get a development env running
+
+Say what the step will be
+
+```
+Give the example
+```
+
+And repeat
+
+```
+until finished
+```
+
+End with an example of getting some data out of the system or using it for a little demo
