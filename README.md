@@ -1,8 +1,18 @@
-# TheLearningArchives Community Sourced Learning
-A repository for gathering and creating learning materials supported and sourced by the community.
+# TheLearningArchives - Community-archive Learning
+
+https://www.thefreedomaccord.com/
+
+https://www.thefreedomaccord.com/home/learning-archives/learningpaths/
+
+# Introduction
+Welcome to TheLearningArchives GitHub page. 
+
+This community-driven archive is a repository for gathering and creating learning materials through support and sources cited by the community. The purpose is to 
 
 
-> **Note**: this guide assumes you are using [Babel](https://babeljs.io), and requires that you use [babel-preset-airbnb](https://npmjs.com/babel-preset-airbnb) or the equivalent. It also assumes you are installing shims/polyfills in your app, with [airbnb-browser-shims](https://npmjs.com/airbnb-browser-shims) or the equivalent.
+
+
+> **Note**: this guide assumes you are familiar with navigating the internet and web pages.
 
 
 ## Table of Contents
