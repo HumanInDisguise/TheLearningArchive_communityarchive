@@ -4,6 +4,14 @@ https://www.thefreedomaccord.com/
 
 https://www.thefreedomaccord.com/home/learning-archives/learningpaths/
 
+##
+> **Note**:
+>
+> Current Version: 0.1 (30/09/2023)
+> 
+> Development Status: IN PROGRESS
+##
+
 # Introduction
 Welcome to TheLearningArchives GitHub page. 
 
@@ -31,13 +39,6 @@ Zbrush,
 Houdini,
 DaVinci
 
-##
-> **Note**:
->
-> Current Version: 0.1 (30/09/2023)
-> 
-> Development Status: IN PROGRESS
-##
 
 ## Table of Contents
 
@@ -176,7 +177,7 @@ Game Design
 5.  Game Balance
 6.  
 
-p
+
 #### Game Art
 
 
