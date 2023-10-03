@@ -102,204 +102,429 @@ A step-by-step guide of pages dedicated to learning each category.
 
 [Subject to changes]
 
-#### Game Development
-
-Game Development Fundamentals
-1. Intro To Game Development
-2. Intro To Game Engines
-3. Intro To Game Art
-4. Intro To Game Design
-5. Intro To Game Mathematics
-6. Intro To Resource Management
-7. Intro To Software Engineering
-8. Intro To Physics
-9. Intro To Audio
-10. Intro To UI/UX
-11. Intro To Business Management
-
-Game Mathematics
-1. Intro To Game Mathematics
-2. Linear Algebra
-3. Trigonometry
-4. Calculus
-5. Discrete Mathematics
-6. Geometry
-7. Number Theory
-8. Game Theory
-9. Optimization
-10. Physics Simulation
-11. Animations
-12. Random Number Generation
-13. Probability and Statistics
-14. Optimization
-15. Cryptography
-
-Game Engines
-1. Intro To Game Engines
-2. Graphics Rendering
-3. Audio Management
-4. Input Handling
-5. Resources Management
-6. Scripting and Programming
-7. Networking
-8. Artificial Intelligence
-9. User Interface
-10. Physics Engines
-11. Debugging and Profiling
-12. Integration
-13. Licensing and Distribution
-
-Game Physics
-1. Intro To Game Physics
-2. Rigid Body Mechanics
-3. Soft Body Mechanics
-4. Particle Systems
-5. Collision Detection
-6. Raycasting
-7. Physics Engines
-8. Joint Constraint Systems
-9. Fluid Dynamics
-10. Vehicle Physics
-11. Ragdoll Physics
-12. Space Physics
-
-Game Mechanics
-1. Intro To Game Mechanics
-2. The Player
-3. Objectives and Goals
-4. Feedback Systems
-5. Risk and Reward Systems
-6. Economic Systems
-7. Puzzle Designs
-8. Combat Systems
-9. Choices and Consequences
-
-Game Programming
-1. Intro To Game Programming
-2. C++ 
-3. Game Engines Programming
-4. Graphics Programming
-5. User Interface
-6. Artificial Intelligence
-7. Physics Programming
-8. Audio Programming
-9. Network Programming
-10. Inputs Programming
-11. Scripting
-12. Optimization
-
-Game World
-1. Intro To Game Worlds
-2. Level Design
-3. Narrative Design
-4. World Building
-5. Lore Building
-6. NPCs
-7. Quests and Missions
-8. Factions and Reputation
-9. Exploration and Discovery
-10. Environment cycles
-11. Game Time
-12. Interactivity and Immersion
-
-Narrative
-1. Intro To Narrative
-2. Storytelling 
-3. Characters
-4. Plot
-5. Dialogue
-6. World
-7. Pacing
-8. Tone
-9. Storyboarding
-10. Scripting
-11. Choices and Consequences
-12. Linear & Non-Linear
-13. Cutscenes and Cinematics
-14. Voice Acting
-15. Audio Integration
-  
-Game Graphics
-1. Intro To Game Graphics
-2. Art Design
-3. Modeling
-4. Animation
-5. UI/UX
-6. Rendering
-7. Optimization Techniques
-8. Pipelines and Workflows
-9. VFX
-10. Visualization
-11. Styling and Direction
+```
+Game Development
+  Game Development Fundamentals
+    Intro To Game Development
+    Intro To Game Engines
+    Intro To Game Art
+    Intro To Game Design
+    Intro To Game Mathematics
+    Intro To Resource Management
+    Intro To Software Engineering
+    Intro To Physics
+    Intro To Audio
+    Intro To UI/UX
+    Intro To Business Management
     
-Game Audio
-1. Intro To Game Audio
-2. Sound Design
-3. Music Composition
-4. Voice Acting and Dialogue
-5. Audio Programming
-6. Integration and Implementation
-7. Interactive Audio
-8. Post-Production
-9. Mixing
-10. VR/AR
+  Game Design
+    Intro To Game Design
+    Game Design History
+    Game Design Theory
+    Game Design Mechanics
+    Game Balance
+    Game Objectives
+    Game Balance
+    Level Design
+    Game World
+    Skills & Progression
+    Mechanics
+    Rules
+    Progression
+    Playability
+    AI
+    Player
+    Movement
+    Actions
+    Resources
+    
+  Game Mathematics
+    Intro To Game Mathematics
+    Linear Algebra
+    Trigonometry
+    Calculus
+    Discrete Mathematics
+    Geometry
+    Number Theory
+    Game Theory
+    Optimization
+    Physics Simulation
+    Animations
+    Random Number Generation
+    Probability and Statistics
+    Optimization
+    Cryptography
+    
+  Game Engines
+    Intro To Game Engines
+    Graphics Rendering
+    Audio Management
+    Input Handling
+    Resources Management
+    Scripting and Programming
+    Networking
+    Artificial Intelligence
+    User Interface
+    Physics Engines
+    Debugging and Profiling
+    Integration
+    Licensing and Distribution
+    
+  Game Physics
+    Intro To Game Physics
+    Rigid Body Mechanics
+    Soft Body Mechanics
+    Particle Systems
+    Collision Detection
+    Raycasting
+    Physics Engines
+    Joint Constraint Systems
+    Fluid Dynamics
+    Vehicle Physics
+    Ragdoll Physics
+    Space Physics
+    
+  Game Programming
+    Intro To Game Programming
+    C++
+    Game Engines Programming
+    Graphics Programming
+    User Interface
+    Artificial Intelligence
+    Physics Programming
+    Audio Programming
+    Network Programming
+    Inputs Programming
+    Scripting
+    Optimization
 
-UX & UI
-1. Intro To UX/UI
-2. User Research
-3. UI Design
-4. UX Design
-5. Interaction
-6. Visuals
-7. Prototyping & Wireframing
-8. UI Programming
-9. Testing & Evaluation
-10. Mobile UI/UX
-11. AR/VR UI/UX
+  Narrative
+    Intro To Narrative
+    Storytelling
+    Characters
+    Plot
+    Dialogue
+    World
+    Pacing
+    Tone
+    Storyboarding
+    Scripting
+    Choices and Consequences
+    Linear & Non-Linear
+    Cutscenes and Cinematics
+    Voice Acting
+    Audio Integration
+    Game Graphics
+    Intro To Game Graphics
+    Art Design
+    Modelling
+    Animation
+    UI/UX
+    
+  Rendering
+    Optimization Techniques
+    Pipelines and Workflows
+    VFX
+    Visualization
+    Styling and Direction
+    
+  Game Audio
+    Intro To Game Audio
+    Sound Design
+    Music Composition
+    Voice Acting and Dialogue
+    Audio Programming
+    Integration and Implementation
+    Interactive Audio
+    Post-Production
+    Mixing
+    VR/AR
+  UX & UI
+    Intro To UX/UI
+    User Research
+    UI Design
+    UX Design
+    Interaction
+    Visuals
+    Prototyping & Wireframing
+    UI Programming
+    Testing & Evaluation
+    Mobile UI/UX
+    AR/VR UI/UX
+  Game Management
+    Intro To Business Management
+    Managing Games
+    Managing Projects
+    Managing Teams
+    Production
+    Marketing
+    Clients
+    Legal
+    Documentation
+    Delivery
+  Game Projects
+    Role-Playing
+    Strategy
+    Action
+    First-Person
+    Platform
+    Adventure
+    
+  
+Game Art
+  Game Art Fundamentals
+    Intro To Game Art
+    Intro To Concept Art
+    Intro To 3D
+    Intro To 2D
+    Intro To Modelling
+    Intro To Texturing
+    Intro To Animation
+    Intro To Lighting
+    Intro To Rendering
+    Intro To VFX
+    Intro To Business Management
+    
+  Concept Art
+    Intro To Concept Art
+    Character Design
+    Environment Design
+    Prop & Vehicle Design
+    Storyboarding
+    Composition
+    Thematics
+    Digital Techniques
+    Presentation & Portfolio
+    Industry Techniques
 
-Game Management
-1. Intro To Business Management
-2. Managing Games
-3. Managing Projects
-4. Managing Teams
-5. Production
-6. Marketing
-7. Clients
-8. Legal
-9. Documentation
-10. Delivery
+  3D Art
+    Intro To 3D
+    Modelling Techniques
+    Character Modelling
+    Environment Modelling
+    Prop & Hard Surface Modelling
+    Organic Modelling
+    Texturing & UV
+    Rigging & Skinning
+    Exporting & Importing
+    Industry Techniques
 
-Game Projects
-1. Role-Playing
-2. Strategy
-3. Action
-4. First-Person
-5. Platform
-6. Adventure
+  2D Art
+    Intro To 2D
+    Modelling Techniques
+    Character & Sprites
+    Environment Modelling
+    Prop & Hard Surface Modelling
+    Digital Painting
+    UX/UI Design
+    Pixel Art
+    Exporting & Importing
+    Industry Techniques
 
-Game Design
-1.  Intro To Game Design
-2.  Game Design History
-3.  Game Design Theory
-4.  Game Design Mechanics
-5.  Game Balance
-6.  Game Objectives
-7.  Game Balance
-8.  Skills & Progression
-9.  Mechanics
-10. Rules
-11. Progression
-12. Playability
-13. AI
-14. Player
-15. Movement
-16. Actions
-17. Resources
+  Modelling
+    Intro To Modelling
+    Characters
+    Environments
+    Props
+    Hard Surface
+    Organic
+    Texturing
+    UV
+    Rigging
+    Industry Techniques
+
+  Texturing
+    Intro To Texturing
+    UV
+    Painting
+    Rendering Techniques
+    Texturing Techniques
+    Baking Techniques
+    Optimization
+    Industry Techniques
+
+  Animation
+    Intro To Animation
+    Characters
+    Creatures
+    Environment
+    Rigging
+    VFX
+    Cinematics
+    Motion Capture
+    Technical Animation
+    Industry Techniques
+
+  Lighting
+    Intro To Lighting
+    Lighting Techniques
+    Environment & Atmosphere
+    VFX
+    Performance & Optimization
+    Post-Processing
+    Lighting Styles
+    Lighting Programming
+    Industry Techniques
+
+  Rendering
+    Intro To Rendering
+    Engines
+    Materials
+    Shading
+    Baking
+    Real-Time
+    Offline
+    Lighting
+    AR/VR
+    Industry Techniques
+
+  VFX
+    Intro To VFX
+    Realistic Effects
+    Stylized Effects
+    Environmental
+    Characters
+    Combat
+    Technical VFX
+    Post-Processing Effects
+    Optimization & Performance
+    Industry Techniques
 
 
-#### Game Art
+Film
 
+  Film Fundamentals
+    Intro To Film
+    Intro To Film History
+    Intro To Screenwriting
+    Intro To Directing
+    Intro To Cinematography
+    Intro To Editing
+    Intro To Sound 
+    Intro To Production 
+    Intro To Visual Effects
+    Intro To Special Effects
+    Intro To Film Management
 
-#### Film
+  Film History
+    Intro To Film History
+    Cinema Origins
+    Silent Films
+    Golden Hollywood
+    World Cinema
+    Film Propaganda
+    Modern and Post-Modern Film
+    Digital Film Revolution
+    Identity In Film
+    Experimental Film
+    Techniques from History
+    
+  Screenwriting
+    Intro To Screenwriting
+    Story Development
+    Writing
+    Genre & Themes
+    Characters
+    Dialogue
+    Scene Structure
+    Adaptations
+    Film
+    Television
+    Industry Techniques
+    
+  Directing
+    Intro To Directing
+    Pre-Production
+    Production
+    Post-Production
+    Actors
+    Visualization
+    Collaboration
+    Genre Techniques
+    Film Mediums
+    Industry Techniques
+    
+  Cinematography
+    Intro To Cinematography
+    Cameras
+    Lighting
+    Film
+    Digital
+    Colour
+    Equipment
+    Visual Effects
+    Collaboration
+    Industry Techniques
+    
+  Editing
+    Intro To Editing
+    Narrative
+    Genre Editing
+    Audio
+    Equipment
+    Collaboration
+    Representation
+    Industry Techniques
+    
+  Sound
+    Intro To Sound
+    Sound Production
+    Sound Post-Production
+    Music
+    SFX
+    Dialogue
+    Mixing & Master
+    Sound Genres
+    Technical Tools
+    Industry Techniques
+
+  Production
+    Intro To Production
+    Pre-Production
+    Production
+    Post-Production
+    Distribution
+    Legal
+    Production Types & Tech
+    Sustainability & Ethics
+    Collaboration
+    Industry Techniques
+
+  Visual Effects
+    Intro To Visual Effects
+    Visual Effects Production
+    Composition
+    Modelling
+    Animation
+    Simulations & Dynamics
+    Lighting & Rendering
+    Track & Movement
+    Visual Effects Technologies
+    Industry Techniques
+
+  Special Effects
+    Intro To Special Effects
+    Special Effects Production
+    Mechanics
+    Atmospherics
+    Pyrotechnics
+    Prosthetics 
+    Stunts
+    Practical Lighting
+    Environment
+    Industry Techniques
+
+  Film Management
+    Intro To Film Management
+    Film Development
+    Financing
+    Pre-Production
+    Production
+    Post-Production
+    Distribution & Marketing
+    Business Strategies
+    Markets and Cultural
+    Industry Techniques
+```
 
 
