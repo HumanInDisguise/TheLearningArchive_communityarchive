@@ -4,13 +4,13 @@ https://www.thefreedomaccord.com/
 
 https://www.thefreedomaccord.com/home/learning-archives/learningpaths/
 
-##
+
 > **Note**:
 >
 > Current Version: 0.1 (30/09/2023)
 > 
 > Development Status: IN PROGRESS
-##
+
 
 # Introduction
 Welcome to TheLearningArchives GitHub page. 
@@ -20,34 +20,32 @@ This community-driven archive is a repository for gathering and creating learnin
 The future of open-source free education is here for the world. And it's time we work together to create the best source of educational learning possible.
 
 
-RELEASED:
+**STATUS:**
+---
+**RELEASED:**
 
-IN PROGRESS:
+**IN PROGRESS:**
+- Game Development
+- Game Art
+- Film
 
-Game Development,
-Game Art,
-Film
-
-BACKLOG:
-
-Blender,
-Maya,
-Unreal Engine,
-Unity Engine,
-Substance Painter,
-Zbrush,
-Houdini,
-DaVinci
-
+**BACKLOG:**
+- Blender
+- Maya
+- Unreal Engine
+- Unity Engine
+- Substance Painter
+- Zbrush
+- Houdini
+- DaVinci
 
 ## Table of Contents
 
   1. [Introduction](#introduction)
   2. [Getting Started](#getting-started)
   3. [Prerequisites](#prerequisites)
-  4. [Deployment](#deployment)
-  5. [Contributing](#contributing)
-  6. [Content](#content)
+  4. [How-To-Contribute](#how-to-contribute)
+  5. [Content](#content)
 
 
 ## Getting Started
@@ -66,17 +64,7 @@ A general understanding of film
 A general understanding of art
 ```
 
-## Deployment
-
-Deployment will be spread across the live website and this page.
-
-## Built With
-
-* [wordpress](https://wordpress.org/) - Web development framework
-* [siteground](https://siteground.com) - Server hosting and support
-* [Jira](https://www.atlassian.com/software/jira) - Used to manage the project
-
-## Contributing
+### How-To-Contribute
 
 Please read [CONTRIBUTING.md]() for details on our code of conduct, and the process for submitting pull requests to us.
 
@@ -96,7 +84,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Big thanks to all the creators and educators
 * Please reach out if you have any questions or feedback!
 
-### Content
+## Content
 
 A step-by-step guide of pages dedicated to learning each category.
 
