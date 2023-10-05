@@ -21,15 +21,16 @@ The future of open-source free education is here for the world. And it's time we
 
 
 **STATUS:**
----
-**RELEASED:**
 
-**IN PROGRESS:**
+```
+RELEASED:
+
+IN PROGRESS:
 - Game Development
 - Game Art
 - Film
 
-**BACKLOG:**
+BACKLOG:
 - Blender
 - Maya
 - Unreal Engine
@@ -38,6 +39,7 @@ The future of open-source free education is here for the world. And it's time we
 - Zbrush
 - Houdini
 - DaVinci
+```
 
 ## Table of Contents
 
