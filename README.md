@@ -85,7 +85,7 @@ Please read [CONTRIBUTING.md](https://github.com/HumanInDisguise/TheLearningArch
 
 * **Justin Clark** - *Creator* - [HumanInDisguise](https://github.com/HumanInDisguise)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/HumanInDisguise/TheLearningArchives_communityarchive/blob/main/CONTRIBUTORS.md) who participated in this project.
 
 
 ## License
