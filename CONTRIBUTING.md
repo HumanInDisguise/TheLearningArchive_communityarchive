@@ -1,8 +1,8 @@
-**Welcome to TheLearningArchives Contributing page**
+# TheLearningArchives - Contribution
 
 > Latest update: 6/10/2023
 
-> Contribute
+## Make A Pull Request
 
 - Make a pull request for LearningPath_Table Of Contents.txt
   - Make your changes to a category
