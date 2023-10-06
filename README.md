@@ -68,7 +68,7 @@ A general understanding of art
 
 ### How-To-Contribute
 
-Please read [CONTRIBUTING.md](contributing) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](CONTRIBUTING) for details on our code of conduct, and the process for submitting pull requests to us.
 
 
 ## Authors
@@ -80,7 +80,7 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](license) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
 
 
 ## Acknowledgments
