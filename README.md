@@ -15,7 +15,7 @@ https://www.thefreedomaccord.com/home/learning-archives/learningpaths/
 # Introduction
 Welcome to TheLearningArchives GitHub page. 
 
-This community-driven archive is a repository for gathering and creating learning materials through support and sources cited by the community. The purpose of this repo is to collect, curate, and collate all the publicly available material into TheLearningArchives learning paths to provide a free platform for student learning. 
+This community-driven archive is a repository for gathering and creating learning materials through support and sources cited by the community. This repo aims to collect, curate, and collate all the publicly available material into TheLearningArchives learning paths to provide a free platform for student learning. 
 
 The future of open-source free education is here for the world. And it's time we work together to create the best source of educational learning possible.
 
@@ -52,13 +52,23 @@ BACKLOG:
 
 ## Getting Started
 
-Select a Learning Path from the Table of Contents Content OR find a specific page
+Select a Learning Path or category from the [Content](#content) section.
   
 
 ### Prerequisites
 
-What things do you need to install the software and how to install them
+Prerequisites depend on the Context and Type of the content you choose to work with.
 
+For this page, you can follow it in two ways:
+
+*Context*
+
+- As a Student
+  - Selecting a content link will take you to its corresponding course page 
+- As a Contributor
+  - If you want to add or modify content check the [CONTRIBUTING.md](https://github.com/HumanInDisguise/TheLearningArchives_communityarchive/blob/main/CONTRIBUTING.md) page
+
+*Type*
 ```
 A general understanding of video games
 A general understanding of mechanics
@@ -68,7 +78,7 @@ A general understanding of art
 
 ### How-To-Contribute
 
-Please read [CONTRIBUTING.md](CONTRIBUTING) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/HumanInDisguise/TheLearningArchives_communityarchive/blob/main/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 
 ## Authors
@@ -80,7 +90,7 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/HumanInDisguise/TheLearningArchives_communityarchive/blob/main/LICENSE.md) file for details
 
 
 ## Acknowledgments
