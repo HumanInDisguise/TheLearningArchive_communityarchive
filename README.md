@@ -70,25 +70,28 @@ A general understanding of art
 
 Please read [CONTRIBUTING.md]() for details on our code of conduct, and the process for submitting pull requests to us.
 
+
 ## Authors
 
 * **Justin Clark** - *Creator* - [HumanInDisguise](https://github.com/HumanInDisguise)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
+
 ## Acknowledgments
 
-* Shout out to anyone whose code was used
-* Big thanks to all the creators and educators
+* Big thanks to all the creators and educators in the world
 * Please reach out if you have any questions or feedback!
+
 
 ## Content
 
-A step-by-step guide of pages dedicated to learning each category.
+A list of course pages dedicated to learning each pathway.
 
 [Subject to changes]
 
@@ -229,6 +232,7 @@ Game Development
     Post-Production
     Mixing
     VR/AR
+
   UX & UI
     Intro To UX/UI
     User Research
@@ -241,6 +245,7 @@ Game Development
     Testing & Evaluation
     Mobile UI/UX
     AR/VR UI/UX
+
   Game Management
     Intro To Business Management
     Managing Games
@@ -252,6 +257,7 @@ Game Development
     Legal
     Documentation
     Delivery
+
   Game Projects
     Role-Playing
     Strategy
