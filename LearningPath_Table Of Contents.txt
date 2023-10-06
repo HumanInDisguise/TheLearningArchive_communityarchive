@@ -7,6 +7,12 @@ Game Development
 
 Game Development Fundamentals
 1. Intro To Game Development
+  - What Is Game Development
+  - Who Are Game Developers
+  - How To Become A Game Developer
+  - How To Develop A Game
+  - How To Learn Game Development
+  - History Of Game Development
 2. Intro To Game Engines
 3. Intro To Game Art
 4. Intro To Game Design
