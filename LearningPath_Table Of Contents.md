@@ -2,7 +2,7 @@
 Learning Path 
 Table Of Contents
 
-
+```
 Game Development
 
 Game Development Fundamentals
@@ -495,3 +495,4 @@ Film Management
 8. Business Strategies
 9. Markets and Cultural
 10. Industry Techniques
+```
