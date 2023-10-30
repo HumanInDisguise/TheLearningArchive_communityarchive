@@ -1,12 +1,14 @@
-Welcome to the Learning Path AI Reference page.
+#  Game Development Learning Path AI Reference page.
 
-
-Game Development
-  Fundamentals
-    Intro To Game Development
-      What is Game Development
+ ## Fundamentals
+    
 
 ```
+Intro To Game Development
+
+
+What is Game Development
+
 Introduction
 Explaining what game development is and what it entails.
 
