@@ -2,13 +2,11 @@
 
  ## Fundamentals
     
+### Intro To Game Development
 
+
+#### What is Game Development
 ```
-Intro To Game Development
-
-
-What is Game Development
-
 Introduction
 Explaining what game development is and what it entails.
 
