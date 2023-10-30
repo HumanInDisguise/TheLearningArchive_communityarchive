@@ -1,15 +1,18 @@
 #  Game Development Learning Path AI Reference page.
 
  ## Fundamentals
+ > Learning path section 0.1
     
 ### Intro To Game Development
-
+> Learning path category 0.1
 
 #### What is Game Development
-```
-Introduction
-Explaining what game development is and what it entails.
+> Learning path topic 0.1
 
+##### Introduction
+> Explaining what game development is and what it entails.
+
+```
 Learning Video Source: https://www.youtube.com/playlist?list=PL7T-oT2MHp08TZUjpvHiGJGsV9miERm1-
 Image Background Source:
 
