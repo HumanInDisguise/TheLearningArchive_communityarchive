@@ -11,6 +11,7 @@ Introduction
 Explaining what game development is and what it entails.
 
 Learning Video Source: https://www.youtube.com/playlist?list=PL7T-oT2MHp08TZUjpvHiGJGsV9miERm1-
+Image Background Source:
 
 Welcome to Lesson 1 What is Game Development
 Video Game Development is the creation, development, and process of making a video game.
