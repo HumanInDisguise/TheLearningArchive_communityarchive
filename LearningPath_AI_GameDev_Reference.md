@@ -2,15 +2,16 @@
 
  ## Fundamentals 0.1
 > Intro To Game Development
- >  - What Is Game Development
+ >  - [What Is Game Development](#what-is-game-development)
  >  - Who Are Game Developers
  >  - How To Become A Game Developer
  >  - How To Develop A Game
  >  - How To Learn Game Development
- > - History Of Game Development
+ >  - History Of Game Development
 
-  
-#### What is Game Development 0.1A
+
+
+# What is Game Development
 > Explaining what game development is and what it entails.
 
 
