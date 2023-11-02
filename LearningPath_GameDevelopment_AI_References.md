@@ -11,7 +11,7 @@
 
 
 
-# What is Game Development
+### What is Game Development
 > Explaining what game development is and what it entails.
 
 
