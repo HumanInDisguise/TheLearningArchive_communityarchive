@@ -1,27 +1,41 @@
 #  Game Development Learning Path AI Reference page.
 
- ## Fundamentals
- > Learning path section 0.1
-    
-### Intro To Game Development
-> Learning path category 0.1
+ ## Fundamentals 0.1
+> Intro To Game Development
+ >  - What Is Game Development
+ >  - Who Are Game Developers
+ >  - How To Become A Game Developer
+ >  - How To Develop A Game
+ >  - How To Learn Game Development
+ > - History Of Game Development
 
-#### What is Game Development
-> Learning path topic 0.1
-
-##### Introduction
+  
+#### What is Game Development 0.1A
 > Explaining what game development is and what it entails.
 
-```
-Learning Video Source: https://www.youtube.com/playlist?list=PL7T-oT2MHp08TZUjpvHiGJGsV9miERm1-
-Image Background Source:
 
-Welcome to Lesson 1 What is Game Development
+
+```
+Learning Video Source:
+https://www.youtube.com/playlist?list=PL7T-oT2MHp08TZUjpvHiGJGsV9miERm1-
+
+Image Background Source:
+```
+
+
+**Welcome to Lesson 1 What is Game Development**
+
 Video Game Development is the creation, development, and process of making a video game.
 
 Born from board games that entertain and test the mind. And from brilliant computer programmers who wanted to create fun programs. We have come far since the creation of the first video game by a Physicist. Into something new and unique, while still keeping the core principle of what video games are.
  
 Through software engineering, programming, design, mathematics, physics, art, audio and many other fields. We combine these skills through different approaches to achieve the outcome of building a game from concepts to designs, programming to art. Game Development is one of the most complex and difficult skills to master. Indie to very large teams across the world through various roles come together, to create the many games you have come to enjoy today.
+
+By using the production and development cycles such as AGILE or Waterfall. Developers can take different approaches and processes to reach their goals. It can start from a pre-production stage. Where concepts,  pitches, designs, and prototypes get brainstormed. Before the main production of the game starts.
+ 
+During the Production cycle. The developer or team bring to life the intended project, based on the design and goals created in pre-production. This stage covers all areas of the development of the game, with many roles taken on to achieve a successful outcome.
+ 
+After a game has reached its gold or released status. It may further develop through additional content, testing, bug fixes, DLC, expansions, and sequels.
 
 History
  Tracing the evolution of game development from the early days of gaming to the present.
@@ -32,37 +46,42 @@ There are many branches of video game development. From Computers to Consoles, M
 
 Game Design
  Discussing the process of creating game concepts, designing game mechanics, and creating storylines and characters.
- 
-By using the production and development cycles such as AGILE or Waterfall. Developers can take different approaches and processes to reach their goals. It can start from a pre-production stage. Where concepts,  pitches, designs, and prototypes get brainstormed. Before the main production of the game starts.
- 
-During the Production cycle. The developer or team bring to life the intended project, based on the design and goals created in pre-production. This stage covers all areas of the development of the game, with many roles taken on to achieve a successful outcome.
- 
-After a game has reached its gold or released status. It may further develop through additional content, testing, bug fixes, DLC, expansions, and sequels.
 
 Game Art
- Explaining the importance of visual design in game development, including concept art, 3D modelling, and animation.
+ - Explaining the importance of visual design in game development, including concept art, 3D modelling, and animation.
+   
 Game Audio
- Detailing the role of audio in game development, including sound effects and musical scores.
+ - Detailing the role of audio in game development, including sound effects and musical scores.
+   
 Programming
- Outlining the software development process and programming languages used in game development.
+ - Outlining the software development process and programming languages used in game development.
+   
 Testing and quality assurance
- Discussing the importance of testing and debugging to ensure that games function properly and meet user expectations.
+ - Discussing the importance of testing and debugging to ensure that games function properly and meet user expectations.
+   
 Release and distribution
- Explaining how games are launched and distributed to players, including physical and digital distribution channels.
+ - Explaining how games are launched and distributed to players, including physical and digital distribution channels.
+   
 Career opportunities
- Discussing the diverse range of careers available in game development, including designers, artists, programmers, and testers.
+ - Discussing the diverse range of careers available in game development, including designers, artists, programmers, and testers.
+   
+```
+*Recommended Learning*
+- These pathways are meant to be relevant to this section
+- They can either be used with TFAStudios learning paths or as an alternative to the content found on this page.
+  
+*Additional Learning*
+- These pathways are meant to be relevant to this section
+- They can either be used with TFAStudios learning paths or as an alternative to the content found on this page.
+  
+*Recommended Assessments*
+- These pathways are meant to be relevant to this section
+- They can either be used with TFAStudios learning paths or as an alternative to the content found on this page.
+```
+```
+*Quiz*
 
-Recommended Learning
-These pathways are meant to be relevant to this section
-They can either be used with TFAStudios learning paths or as an alternative to the content found on this page.
- Additional Learning
-These pathways are meant to be relevant to this section
-They can either be used with TFAStudios learning paths or as an alternative to the content found on this page.
-Recommended Assessments
-These pathways are meant to be relevant to this section
-They can either be used with TFAStudios learning paths or as an alternative to the content found on this page.
 
-Quiz
 Question 1: What does "FPS" commonly stand for in game development?
 a) Fun Play System
 b) Fast Performance Score
