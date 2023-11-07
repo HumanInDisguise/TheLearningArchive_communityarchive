@@ -153,3 +153,17 @@ c) Database Administrator
 d) Animator
 Answer: c) Database Administrator
 ```
+
+### Who are Game Developers
+> Explaining who game developers are and what they do.
+
+
+
+```
+Learning Video Source:
+
+Image Background Source:
+```
+
+
+**Welcome to Lesson 1 Who are Game Developers**
