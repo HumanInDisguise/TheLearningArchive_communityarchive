@@ -1,17 +1,43 @@
 Game Art
 
 Game Art Fundamentals
+
 1. Intro To Game Art
-2. Intro To Concept Art
-3. Intro To 3D
-4. Intro To 2D
-5. Intro To Modelling
-6. Intro To Texturing
-7. Intro To Animation
-8. Intro To Lighting
-9. Intro To Rendering
-10. Intro To VFX
-11. Intro To Business Management
+   
+-  What Is Game Art
+
+``` "Game art is the visual element of video games, encompassing character designs, environments, and animations. It's a blend of creativity and technology, bringing game worlds to life and enhancing player experience. From 2D sprites to 3D models, game art is crucial in defining a game's style and atmosphere. It's where art meets gaming!" ``` 
+-  Who Are Game Artists
+
+``` "Game artists are creative professionals who design the visual elements of video games. They create characters, environments, and assets, blending artistry with technology. Their work defines a game's style, from realistic 3D graphics to stylized 2D art, shaping the player's visual experience and immersion in the game world." ```
+
+-  How To Become A Game Artist
+
+``` "To become a game artist, start with learning art fundamentals like drawing and animation. Then, master digital tools like Photoshop and 3D software. Build a portfolio showcasing your best game art, and keep learning about game design and technology. Network with other artists and game developers to break into the industry." ```
+
+-  How To Create Game Art
+
+``` "Creating game art starts with an idea. Sketch your concepts, then use digital tools like Photoshop for 2D art or Blender for 3D models. Add textures and colours to bring your art to life. Finally, import your creations into a game engine, adding animations and effects to see them in action!" ```
+
+-  How To Learn Game Art
+
+``` "To learn game art, start with basic drawing and design principles. Practice using digital art software like Photoshop or Illustrator. Explore 3D modelling with programs like Blender or Maya. Study existing game art for inspiration, and keep practising to develop your unique style and portfolio." ```
+
+-  History Of Game Art
+
+
+``` "Game art history began with simple 2D sprites in the 1970s. Evolving in the 80s and 90s with more colours and details, it transformed into realistic 3D graphics by the 2000s. Today, game art ranges from hyper-realistic to stylized, reflecting technology's advancement and diverse artistic visions."``` 
+
+3. Intro To Concept Art
+4. Intro To 3D
+5. Intro To 2D
+6. Intro To Modelling
+7. Intro To Texturing
+8. Intro To Animation
+9. Intro To Lighting
+10. Intro To Rendering
+11. Intro To VFX
+12. Intro To Business Management
 
 Concept Art
 1. Intro To Concept Art
