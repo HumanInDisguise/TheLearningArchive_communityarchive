@@ -4,17 +4,31 @@ Learning Path - Game Development
 
 > What this is:
 
-
+- 15-second summaries of each topic
+- Concise and to the point
+- engaging and creative
+- Uses AI prompts to generate initial reference ideas
+- references are then used to create new human summary
+- Additional changes made where necessary
+- Additional references may be linked in the section you edit or add
+  
 
 
 Game Development
 
 Game Development Fundamentals
 1. Intro To Game Development
-       
+
+CHATGBT
 - What Is Game Development
     
 ``` "Game development is an exciting blend of creativity and technology, where teams design, build, and test video games. It involves storytelling, art design, coding, sound production, and gameplay mechanics. Each step, from concept to release, aims to create an immersive and enjoyable experience for players. It's a dynamic field where art meets science to bring interactive entertainment to life!"```
+
+HUMAN
+
+``` "Game Development is a creative and programming-driven process to develop a video game. A single developer or a team of people work together to design, build and create the games we have come to love. Through storytelling, game mechanics and art, to sound and world-building. There is a little bit of everything in this ever-evolving interactive environment for you. So start developing today!```
+
+
 
 - Who Are Game Developers
   
