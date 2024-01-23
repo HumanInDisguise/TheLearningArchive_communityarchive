@@ -20,6 +20,7 @@ Game Development Fundamentals
 1. Intro To Game Development
 
 
+
 - What Is Game Development
   
 CHATGBT 
@@ -27,17 +28,16 @@ CHATGBT
 
 HUMAN
 
-``` "What is Game Development? Well. It is a creative and programming-driven process to develop a video game. A single developer or a team of people work together to design, build and create the games we have come to love. Through storytelling, game mechanics and art, to sound and world-building. There is a little bit of everything in this ever-evolving interactive environment for you. So start developing today!```
+``` "What is Game Development? It is a creative and programming-driven process to develop a video game. A single developer or a team of people work together to design, build and create the games we have come to love. Through storytelling, game mechanics and art, to sound and world-building. There is a little bit of everything in this ever-evolving interactive environment for you. So start developing today!```
 
-
-
+ 
 - Who Are Game Developers
   
 CHATGBT
 ``` "Game developers are skilled professionals who bring video games to life. They can be artists, creating visuals and animations; programmers, writing code for game mechanics; sound engineers, designing audio; or designers, crafting the game's story and levels. Together, they combine creativity and technology to create immersive gaming experiences. They work in teams, often collaborating to turn creative ideas into engaging, interactive games for players to enjoy." ```
 
 HUMAN
-
+``` "Who are Game Developers? With a multiple
 
 - How To Become A Game Developer
   
