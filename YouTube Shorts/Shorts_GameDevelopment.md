@@ -36,7 +36,7 @@ HUMAN
 ```
 
  
-- Who Are Game Developers
+#### Who Are Game Developers
 ```
 BRAINSTORM
 Game developers are usually skilled programmers who have developed their experience through computer science and other similar fields. They have chosen to develop games because it is their passion as most of them have played video games for several years. 
@@ -50,9 +50,18 @@ Who are Game Developers? Some of the sweatiest hands in the world belong to Game
 
 
 
-- How To Become A Game Developer
-  
-``` "Becoming a game developer starts with a passion for gaming and a desire to create. Step 1: Learn the basics of programming, using languages like C++ or Python. Step 2: Study game design principles to understand what makes games fun and engaging. Step 3: Practice by creating small games, using tools like Unity or Unreal Engine. Step 4: Build a portfolio to showcase your work. Step 5: Consider formal education or online courses for deeper knowledge. Finally, network with other developers and stay updated on industry trends. Remember, persistence and creativity are key!" ```
+#### How To Become A Game Developer
+```
+BRAINSTORM
+There are several methods to become a game developer, all of which unfortunately require hard work and motivation. 
+
+AI
+"Becoming a game developer starts with a passion for gaming and a desire to create. Step 1: Learn the basics of programming, using languages like C++ or Python. Step 2: Study game design principles to understand what makes games fun and engaging. Step 3: Practice by creating small games, using tools like Unity or Unreal Engine. Step 4: Build a portfolio to showcase your work. Step 5: Consider formal education or online courses for deeper knowledge. Finally, network with other developers and stay updated on industry trends. Remember, persistence and creativity are key!"
+
+FINAL
+```
+
+
 
 - How To Develop A Game
 
