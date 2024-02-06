@@ -1,6 +1,6 @@
-YouTube Shorts
+# YouTube Shorts
 
-Learning Path - Game Development
+## Learning Path - Game Development
 
 > What this is:
 
@@ -14,30 +14,41 @@ Learning Path - Game Development
   
 
 
-Game Development
-
-Game Development Fundamentals
-1. Intro To Game Development
+# Game Development
 
 
 
-- What Is Game Development
-  
+## Game Development Fundamentals
+ 
+### Intro To Game Development
+
+
+#### What Is Game Development
+```
+BRAINSTORM
+Game Development is the process of making a video game. It utilises programming, tools and technology to develop many different genres of video games.
+
 CHATGBT 
-``` "Game development is an exciting blend of creativity and technology, where teams design, build, and test video games. It involves storytelling, art design, coding, sound production, and gameplay mechanics. Each step, from concept to release, aims to create an immersive and enjoyable experience for players. It's a dynamic field where art meets science to bring interactive entertainment to life!"```
+"Game development is an exciting blend of creativity and technology, where teams design, build, and test video games. It involves storytelling, art design, coding, sound production, and gameplay mechanics. Each step, from concept to release, aims to create an immersive and enjoyable experience for players. It's a dynamic field where art meets science to bring interactive entertainment to life!"
 
 HUMAN
-
-``` "What is Game Development? It is a creative and programming-driven process to develop a video game. A single developer or a team of people work together to design, build and create the games we have come to love. Through storytelling, game mechanics and art, to sound and world-building. There is a little bit of everything in this ever-evolving interactive environment for you. So start developing today!```
+ "What is Game Development? It is a creative and programming-driven process to develop a video game. A single developer or a team of people work together to design, build and create the games we have come to love. Through storytelling, game mechanics and art, to sound and world-building. There is a little bit of everything in this ever-evolving interactive environment for you. So start developing today!
+```
 
  
 - Who Are Game Developers
-  
-CHATGBT
-``` "Game developers are skilled professionals who bring video games to life. They can be artists, creating visuals and animations; programmers, writing code for game mechanics; sound engineers, designing audio; or designers, crafting the game's story and levels. Together, they combine creativity and technology to create immersive gaming experiences. They work in teams, often collaborating to turn creative ideas into engaging, interactive games for players to enjoy." ```
+```
+BRAINSTORM
+Game developers are usually skilled programmers who have developed their experience through computer science and other similar fields. They have chosen to develop games because it is their passion as most of them have played video games for several years. 
 
-HUMAN
-``` "Who are Game Developers? With a multiple
+AI
+"Game developers are skilled professionals who bring video games to life. They can be artists, creating visuals and animations; programmers, writing code for game mechanics; sound engineers, designing audio; or designers, crafting the game's story and levels. Together, they combine creativity and technology to create immersive gaming experiences. They work in teams, often collaborating to turn creative ideas into engaging, interactive games for players to enjoy." 
+
+FINAL
+Who are Game Developers? With a multiple
+```
+
+
 
 - How To Become A Game Developer
   
