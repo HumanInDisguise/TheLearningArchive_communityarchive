@@ -45,7 +45,7 @@ AI
 "Game developers are skilled professionals who bring video games to life. They can be artists, creating visuals and animations; programmers, writing code for game mechanics; sound engineers, designing audio; or designers, crafting the game's story and levels. Together, they combine creativity and technology to create immersive gaming experiences. They work in teams, often collaborating to turn creative ideas into engaging, interactive games for players to enjoy." 
 
 FINAL
-Who are Game Developers? With a multiple
+Who are Game Developers? Some of the sweatiest hands in the world belong to Game Developers. Dedicated to their craft in bringing the games we enjoy to life. No two game developers are the same because game development involves a lot of different skills that allow for creating a compelling story and immersive experience. Consider whether you want to work as an indie developer or be a part of large teams working with some of the big players like Valve. 
 ```
 
 
